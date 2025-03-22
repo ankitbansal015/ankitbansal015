@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Bansal</h1>
 <h3 align="center">Motivated, proactive, adaptable and hands-on developer with nearly 2 years of experience with applicable database knowledge and coding skills.</h3>
-<img align="right" alt="coding" width="400" src="">
+<img align="right" alt="coding" width="360" height="350" src="https://github.com/ankitbansal015/ankitbansal015/blob/main/giphy.gif">
 
 - 🌱 I’m currently Working **on React.js , Html , Css ,**
 
