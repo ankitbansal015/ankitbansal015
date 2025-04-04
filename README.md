@@ -1,4 +1,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=221DF7&width=435&lines=Hello+%F0%9F%91%8B;I'm+Ankit..;Making+Responsive+Web+Apps+%F0%9F%93%8A;Checkout+my+Dashboard%F0%9F%93%8A+;and+check+out+my+Repo" alt="Typing SVG" /></a>
+
+<h3>Profile Visits</h3>
+
+![Visitor Count](https://profile-counter.glitch.me/ankitbansal015/count.svg)
+
 <h1 align="center">Hi 👋, I'm Ankit Bansal</h1>
 <h3 align="center">Motivated, proactive, adaptable and hands-on developer with 2 years of experience with applicable database knowledge and coding skills.</h3>
 
